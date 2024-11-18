@@ -1,0 +1,50 @@
+name: Decrypt Message and Return JSON
+
+on:
+  workflow_dispatch:  # เปิดให้รันแบบ Manual ผ่าน API หรือ GitHub UI
+    inputs:
+      file_url:
+        description: 'URL ของไฟล์ที่เข้ารหัส'
+        required: true
+
+jobs:
+  decrypt:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: ดาวน์โหลดไฟล์จาก URL ที่ให้มา
+        run: |
+          curl -O "${{ github.event.inputs.file_url }}"
+        
+      - name: ถอดรหัสข้อความ
+        id: decrypt
+        run: |
+          pip install cryptography
+          python3 -c "
+from cryptography.fernet import Fernet
+import json
+
+# กุญแจที่ใช้ในการถอดรหัส (สามารถเก็บใน GitHub Secrets ได้)
+key = '${{ secrets.DECRYPT_KEY }}'
+fernet = Fernet(key)
+
+# อ่านข้อมูลจากไฟล์ที่ถูกดาวน์โหลด
+with open('encoded_message.txt', 'rb') as file:
+    encrypted_message = file.read()
+
+# ถอดรหัสข้อความ
+decrypted_message = fernet.decrypt(encrypted_message).decode()
+
+# สร้าง JSON และแสดงผล
+result = {
+    'decrypted_message': decrypted_message
+}
+print(json.dumps(result))
+"
+        
+      - name: แสดงผล JSON
+        run: |
+          echo "${{ steps.decrypt.outputs.result }}"
