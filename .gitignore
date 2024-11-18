@@ -1,1 +1,7 @@
-gAAAAABnOsMcSYdZRXQyfhjwmGZezc5R_sv_PKxxYhGVifea8QVhlCC8rBambkd8pT3MAwWgvA0zNGvufknWQVmDY1wNsuIUZfhSJwIN8TVTQisvjHcXl5rrvL3cvThUnXprV8CHbM3bMGZ_A5AEiP5CH5Cxvd88HFkW_Usf_EAUsA2D5wvqD6Q=1
+# ไฟล์ที่ไม่ต้องการให้ Git ติดตาม
+key.key
+*.log        # ทุกไฟล์ที่มีนามสกุล .log
+*.tmp        # ทุกไฟล์ที่มีนามสกุล .tmp
+node_modules/ # โฟลเดอร์ที่เก็บ dependencies ของ Node.js
+.env         # ไฟล์ที่เก็บคีย์และตัวแปรสิ่งแวดล้อม
+.txt
