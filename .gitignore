@@ -4,4 +4,3 @@ key.key
 *.tmp        # ทุกไฟล์ที่มีนามสกุล .tmp
 node_modules/ # โฟลเดอร์ที่เก็บ dependencies ของ Node.js
 .env         # ไฟล์ที่เก็บคีย์และตัวแปรสิ่งแวดล้อม
-.txt
