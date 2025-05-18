@@ -5,14 +5,13 @@
  "image": "https://www.movie2uhd.tv/wp-content/uploads/2025/01/Panor.webp",
  "stations": [
  
-
-  {
-   "name": "พนอ (2025) Panor",
-   "info": "พากย์ไทย zoom",
+ {
+   "name": "(filemoon) พนอ (2025) Panor",
+   "info": "พากย์ไทยมาสเตอร์",
    "image": "https://www.movie2uhd.tv/wp-content/uploads/2025/01/Panor.webp",
-   "url": "https://ms105.arneb-ss.xyz/media/679314b233650oVn/1080/hls/index.m3u8",
-   "referer": "https://mv.hduxo.xyz/",
+   "url": "https://filemoon.to/d/unk4g8us9l4c",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)",
    "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
-  }
+  },
  ]
 },
