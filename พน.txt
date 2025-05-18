@@ -1,17 +1,107 @@
 {
- "name": "พนอ (2025) Panor",
- "author": "",
- "info": "",
- "image": "https://www.movie2uhd.tv/wp-content/uploads/2025/01/Panor.webp",
+ "name": "Dear Hongrang ฮงรัง (2025)ตอนที่1-12 (จบ)",
+ "author": "เจียว เจียว อัพวันที่ 16 พฤษภาคม 2568",
+ "info": "ถ้าล้มเราอาจจะได้แผล ถ้ายอมแพ้เราอาจจะไม่ได้อะไรเลย",
+ "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
  "stations": [
- 
- {
-   "name": "(filemoon) พนอ (2025) Panor",
-   "info": "พากย์ไทยมาสเตอร์",
-   "image": "https://www.movie2uhd.tv/wp-content/uploads/2025/01/Panor.webp",
-   "url": "https://filemoon.to/d/unk4g8us9l4c",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
+  {
+   "name": "ตอนที่ 1",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/a5eb06e8b64ebf24980d9a0d0eb335df/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
   },
+  {
+   "name": "ตอนที่ 2",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/58d7731653d5f12173d8d2cd174b9bbb/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 3",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/72f04792d05e4a02ad1439dba9e5e1bc/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 4",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/91db3e085c0a8d6681242789a2f46fb1/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 5",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/0e8fca4d415f8fa39cbeae78c5c296fc/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 6",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/b387c9b26bebb2c350b6709c7d922dc8/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 7",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/a3892f9f037a2cc6a16a294c5371b2ab/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 8",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/20320d0793aae8bfe2bd610f3cd1bcee/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 9",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/f834f02cbca522bc9b62c747e9354e7f/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 10",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/b3c682d4856029d0d9ef63b416f48ee8/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  },
+  {
+   "name": "ตอนที่ 11",
+   "info": "พากย์ไทย",
+   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
+   "url": "https://ssdre02.oklive-2.xyz/api/files/0adcfd8e5dc34f84748f9cc60707b074/master.txt",
+   "referer": "https://320hd.vip/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
+   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
+  }
  ]
-},
+}
