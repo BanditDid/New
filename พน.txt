@@ -1,107 +1,139 @@
 {
- "name": "Dear Hongrang ฮงรัง (2025)ตอนที่1-12 (จบ)",
- "author": "เจียว เจียว อัพวันที่ 16 พฤษภาคม 2568",
- "info": "ถ้าล้มเราอาจจะได้แผล ถ้ายอมแพ้เราอาจจะไม่ได้อะไรเลย",
- "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
- "stations": [
-  {
-   "name": "ตอนที่ 1",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/a5eb06e8b64ebf24980d9a0d0eb335df/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 2",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/58d7731653d5f12173d8d2cd174b9bbb/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 3",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/72f04792d05e4a02ad1439dba9e5e1bc/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 4",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/91db3e085c0a8d6681242789a2f46fb1/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 5",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/0e8fca4d415f8fa39cbeae78c5c296fc/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 6",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/b387c9b26bebb2c350b6709c7d922dc8/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 7",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/a3892f9f037a2cc6a16a294c5371b2ab/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 8",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/20320d0793aae8bfe2bd610f3cd1bcee/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 9",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/f834f02cbca522bc9b62c747e9354e7f/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 10",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/b3c682d4856029d0d9ef63b416f48ee8/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  },
-  {
-   "name": "ตอนที่ 11",
-   "info": "พากย์ไทย",
-   "image": "https://320hd.vip/wp-content/uploads/2025/05/4240-2.jpg",
-   "url": "https://ssdre02.oklive-2.xyz/api/files/0adcfd8e5dc34f84748f9cc60707b074/master.txt",
-   "referer": "https://320hd.vip/",
-   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt",
-   "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)"
-  }
- ]
+"name": "(serieday) Dear Hongrang (2025) ฮงรัง",
+"info": "จบแล้ว",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"stations": [
+{
+"name": "ตอนที่ 1",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/e22a2554faf7e256f672c9f1/e22a2554faf7e256f672c9f1438.m3u8"
+},
+{
+"name": "ตอนที่ 1",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/84bb0a55f95820e94889449d/84bb0a55f95820e94889449d438.m3u8"
+},
+{
+"name": "ตอนที่ 2",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/3dd48f381457f9b558d3279c/3dd48f381457f9b558d3279c438.m3u8"
+},
+{
+"name": "ตอนที่ 2",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/2e6fcb5aaabdfc883805f5f3/2e6fcb5aaabdfc883805f5f3438.m3u8"
+},
+{
+"name": "ตอนที่ 3",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/eb8ec99226bc686c3e09f037/eb8ec99226bc686c3e09f037438.m3u8"
+},
+{
+"name": "ตอนที่ 3",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/122d0c6f9b0a80146132bd9a/122d0c6f9b0a80146132bd9a438.m3u8"
+},
+{
+"name": "ตอนที่ 4",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/a121a1d93922255c792f52cd/a121a1d93922255c792f52cd438.m3u8"
+},
+{
+"name": "ตอนที่ 4",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/2c6a8993bed597177c3fa16f/2c6a8993bed597177c3fa16f438.m3u8"
+},
+{
+"name": "ตอนที่ 5",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/ca9d84145ecb909e2749587c/ca9d84145ecb909e2749587c438.m3u8"
+},
+{
+"name": "ตอนที่ 5",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/e20932e48313b26f1ec5bcc2/e20932e48313b26f1ec5bcc2438.m3u8"
+},
+{
+"name": "ตอนที่ 6",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/f0273e3accadcc6c55e0c715/f0273e3accadcc6c55e0c715438.m3u8"
+},
+{
+"name": "ตอนที่ 6",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/22ccb0b7e75ba5d22da226c4/22ccb0b7e75ba5d22da226c4438.m3u8"
+},
+{
+"name": "ตอนที่ 7",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/6c44dcf750772b8f9fb82d79/6c44dcf750772b8f9fb82d79438.m3u8"
+},
+{
+"name": "ตอนที่ 7",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/7628f083a69aa7f6f2262d6d/7628f083a69aa7f6f2262d6d438.m3u8"
+},
+{
+"name": "ตอนที่ 8",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/78621562c33654f3b1910626/78621562c33654f3b1910626438.m3u8"
+},
+{
+"name": "ตอนที่ 8",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/172fb4cd092e47bf6fd88993/172fb4cd092e47bf6fd88993438.m3u8"
+},
+{
+"name": "ตอนที่ 9",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/df63c8a7491f46de1692bc2b/df63c8a7491f46de1692bc2b438.m3u8"
+},
+{
+"name": "ตอนที่ 9",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/01892238cfc1b250466b31b8/01892238cfc1b250466b31b8438.m3u8"
+},
+{
+"name": "ตอนที่ 10",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/5ec1eac924cfe36827222fd0/5ec1eac924cfe36827222fd0438.m3u8"
+},
+{
+"name": "ตอนที่ 10",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/00f924de333500e32558229f/00f924de333500e32558229f438.m3u8"
+},
+{
+"name": "ตอนที่ 11",
+"info": "พากย์ไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/1c080f5adeff9c33bcfe68fc/1c080f5adeff9c33bcfe68fc438.m3u8"
+},
+{
+"name": "ตอนที่ 11",
+"info": "ซับไทย",
+"image": "https://www.serieday-hd.com/wp-content/uploads/2025/05/Dear-Hongrang-2025-187x269.jpg",
+"url": "https://main.24playerhd.com/m3u8/a8c1c3647bed5536a8573c7a/a8c1c3647bed5536a8573c7a438.m3u8"
 }
+]
+},
