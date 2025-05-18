@@ -1,0 +1,18 @@
+{
+ "name": "พนอ (2025) Panor",
+ "author": "",
+ "info": "",
+ "image": "https://www.movie2uhd.tv/wp-content/uploads/2025/01/Panor.webp",
+ "stations": [
+ 
+
+  {
+   "name": "พนอ (2025) Panor",
+   "info": "พากย์ไทย zoom",
+   "image": "https://www.movie2uhd.tv/wp-content/uploads/2025/01/Panor.webp",
+   "url": "https://ms105.arneb-ss.xyz/media/679314b233650oVn/1080/hls/index.m3u8",
+   "referer": "https://mv.hduxo.xyz/",
+   "subtitle": "https://raw.githubusercontent.com/Oung-Oung/up/refs/heads/Oung/010101.srt"
+  }
+ ]
+},
